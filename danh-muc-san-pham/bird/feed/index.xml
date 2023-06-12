@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bird &#8211; Đồ Án Cuối Kì</title>
-	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/bird/feed/?simply_static_page=835" rel="self" type="application/rss+xml" />
-	<link>http://99hainnguyen.github.io/doancuoiki</link>
+	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/bird/feed/?simply_static_page=1066" rel="self" type="application/rss+xml" />
+	<link>https://99hainnguyen.github.io/doancuoiki</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2023 07:45:22 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Creations Rainbow</title>
-		<link>http://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/</link>
-					<comments>http://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/#respond</comments>
+		<link>https://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/</link>
+					<comments>https://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 07:40:43 +0000</pubDate>
-				<guid isPermaLink="false">http://99hainnguyen.github.io/doancuoiki/?post_type=product#038;p=21</guid>
+				<guid isPermaLink="false">https://99hainnguyen.github.io/doancuoiki/?post_type=product#038;p=21</guid>
 
 					<description><![CDATA[Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
@@ -34,26 +34,26 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/feed/</wfw:commentRss>
+					<wfw:commentRss>https://99hainnguyen.github.io/doancuoiki/san-pham/creations-rainbow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Frisco Polka</title>
-		<link>http://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/</link>
-					<comments>http://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/#respond</comments>
+		<link>https://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/</link>
+					<comments>https://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 07:12:21 +0000</pubDate>
-				<guid isPermaLink="false">http://99hainnguyen.github.io/doancuoiki/?post_type=product#038;p=13</guid>
+				<guid isPermaLink="false">https://99hainnguyen.github.io/doancuoiki/?post_type=product#038;p=13</guid>
 
 					<description><![CDATA[Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/feed/</wfw:commentRss>
+					<wfw:commentRss>https://99hainnguyen.github.io/doancuoiki/san-pham/frisco-polka/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

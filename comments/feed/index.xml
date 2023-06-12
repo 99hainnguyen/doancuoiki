@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho Đồ Án Cuối Kì	</title>
-	<atom:link href="http://localhost/doancuoiki/comments/feed/?simply_static_page=633" rel="self" type="application/rss+xml" />
-	<link>http://99hainnguyen.github.io/doancuoiki</link>
+	<atom:link href="http://localhost/doancuoiki/comments/feed/?simply_static_page=864" rel="self" type="application/rss+xml" />
+	<link>https://99hainnguyen.github.io/doancuoiki</link>
 	<description></description>
 	<lastBuildDate>Mon, 05 Jun 2023 05:21:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
-		<link>http://99hainnguyen.github.io/doancuoiki/blog/2023/06/05/hello-world/#comment-1</link>
+		<link>https://99hainnguyen.github.io/doancuoiki/blog/2023/06/05/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 05 Jun 2023 05:21:25 +0000</pubDate>
-		<guid isPermaLink="false">http://99hainnguyen.github.io/doancuoiki/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://99hainnguyen.github.io/doancuoiki/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

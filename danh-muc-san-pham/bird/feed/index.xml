@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Bird &#8211; Đồ Án Cuối Kì</title>
-	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/bird/feed/?simply_static_page=1596" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/bird/feed/?simply_static_page=5556" rel="self" type="application/rss+xml" />
 	<link>https://99hainnguyen.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 12:41:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jun 2023 04:34:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
